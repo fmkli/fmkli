@@ -14,4 +14,8 @@ My personal website：https://fmkli.js.org
 ### 目录
 * [1.fmkli的网站](#1)
 <h4 id='1'>1.fmkli的网站</h4>
-[fmkli的主页]|https://fmkli.js.org
+自我介绍：https://fmkli.js.org/aboutme.html
+网址导航：https://fmkli.js.org/website%20navigation
+fk论坛：http://bbs.fmkli.ga/
+fk免费主机：https://fkhost.ml/
+我的github：https://github.com/fmkli
