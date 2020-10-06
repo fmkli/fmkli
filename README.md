@@ -24,3 +24,5 @@ fk免费主机：https://fkhost.ml/
 <hr>
 我的github：https://github.com/fmkli
 <hr>
+我的blog：http://fkblog.5ay.xyz/
+<hr>
