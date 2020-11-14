@@ -4,22 +4,3 @@
 希望做软件
 我的网站：https://fmkli.js.org
 ![0uzENj.jpg](https://s1.ax1x.com/2020/09/30/0uzENj.jpg)
-### 目录
-* [1.fmkli的网站](#1)
-<h4 id='1'>1.fmkli的网站</h4>
-自我介绍：https://fmkli.js.org/aboutme.html
-<hr>
-网址导航：https://fmkli.js.org/website%20navigation
-<hr>
-fk论坛：http://bbs.fmkli.ga/
-<hr>
-fk免费主机：https://fkhost.ml/
-<hr>
-我的github：https://github.com/fmkli
-<hr>
-我的公共blog：http://fkblog.5ay.xyz/
-<hr>
-Fmkli的博客：http://blog.fmkli.ga/ 
-<hr>
-Fmkli的备用博客：https://fmkli362082388.wordpress.com
-
