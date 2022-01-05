@@ -8,7 +8,7 @@
 
 Hello.I'm Fmkli  
 I'm Chinese  
-My website: https://fmkli.js.org  
-My blog: https://blog.fmkli.ga
+My website: https://www.imfmkli.top
+My blog: https://blog.imfmkli.top
 
 
