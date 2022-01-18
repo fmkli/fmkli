@@ -1,5 +1,4 @@
 ### Hi,I'm Fmkli  
-<img alt="ip签名图片" src="https://www.ipip5.com/ipimg">
 我是Fmkli  
 来到Github  
 我的网站：https://fmkli.js.org  
